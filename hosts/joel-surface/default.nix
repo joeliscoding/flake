@@ -4,6 +4,8 @@
   imports =
     [
       ./hardware-configuration.nix
+      ./power-configuration.nix
+      ./wifi
     ];
 
 
